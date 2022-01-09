@@ -27,3 +27,39 @@ Records while taking the Computational Neuroscience course on Coursera
 |6   |Synapse and network models: FFN, RNN|Rajesh Rao                        |[LINK](summary/week_6.md)|
 |7   |Synaptic plasticity and learning    |Rajesh Rao                        |[LINK](summary/week_7.md)|
 |8   |Reinforcement learning              |Rajesh Rao, Eberhard E Fetz       |[LINK](summary/week_8.md)|
+
+## Supplementary reading: Main textbooks
+
+1. Dayan, P., & Abbott, L. F. (2001). *Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems*. The MIT Press.
+    1. Week 1: Dayan and Abbott, Theoretical Neuroscience, Chapter 1 and Mathematical Appendix
+    2. Week 2: Dayan and Abbott, Theoretical Neuroscience, Chapter 2; Spikes, Rieke et al, appendices
+    3. Week 3: Dayan and Abbott, Theoretical Neuroscience, Chapter 3
+    4. Week 4: Dayan and Abbott, Theoretical Neuroscience, Chapter 4
+    5. Week 5: Dayan and Abbott, Theoretical Neuroscience, Chapters 5 & 6
+    6. Week 6: Dayan and Abbott, Theoretical Neuroscience, Chapter 7
+    7. Week 7: Dayan and Abbott, Theoretical Neuroscience, Chapters 8 & 10
+    8. Week 8: Dayan and Abbott, Theoretical Neuroscience, Chapter 9
+2. Anastasio, T. J. (2010). *Tutorial on Neural Systems Modeling*. Sinauer Associates.
+
+## Recommended additional textbooks
+
+1. Anastasio, T. J. (2010). *Tutorial on Neural Systems Modeling*. Sinauer Associates.
+    - Gentle introduction to neural modeling; comes with Matlab code for examples in the book.
+2. Johnston, D., & Wu, S. M. S. (1994). *Foundations of Cellular Neurophysiology*. MIT press.
+    - The classic text for quantitative neurophysiology.
+3. Koch, C. (2004). *Biophysics of Computation: Information Processing in Single Neurons*. Oxford university press.
+    - A compendium of neuronal hardware, its dynamics and functional implications for coding.
+4. Izhikevich, E. M. (2007). *Dynamical Systems in Neuroscience*. MIT press.
+    - A highly recommended introduction to nonlinear dynamics applied to neuronal excitability.
+5. Rieke, F., Warland, D., Van Steveninck, R. D. R., & Bialek, W. (1999). *Spikes: Exploring the Neural Code*. MIT press.
+    - Classic introductory book on neural coding.
+
+## Useful papers relevant to course lectures
+
+1. Slee, S. J., Higgs, M. H., Fairhall, A. L., & Spain, W. J. (2005). Two-dimensional time coding in the auditory brainstem. *Journal of Neuroscience*, *25*(43), 9978-9988.
+2. Fairhall, A. L., Burlingame, C. A., Narasimhan, R., Harris, R. A., Puchalla, J. L., & Berry, M. J. (2006). Selectivity for multiple stimulus features in retinal ganglion cells. *Journal of Neurophysiology*, *96*(5), 2724-2738.
+3. Simoncelli, E. P., Paninski, L., Pillow, J., & Schwartz, O. (2004). Characterization of neural responses with stochastic stimuli. *The Cognitive Neurosciences*, *3*(327-338), 1.
+4. Sharpee, T., Rust, N. C., & Bialek, W. (2004). Analyzing neural responses to natural signals: maximally informative dimensions. *Neural Computation*, *16*(2), 223-250.
+5. Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, *27*(3), 379-423.
+6. Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, *275*(5306), 1593-1599.
+7. Fairhall, A. (2014). Adaptation and Natural Stimulus Statistics. *The Cognitive Neurosciences*, 283.
