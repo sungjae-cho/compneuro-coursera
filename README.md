@@ -28,17 +28,20 @@ Records while taking the Computational Neuroscience course on Coursera
 |7   |Synaptic plasticity and learning    |Rajesh Rao                        |[LINK](summary/week_7.md)|
 |8   |Reinforcement learning              |Rajesh Rao, Eberhard E Fetz       |[LINK](summary/week_8.md)|
 
-## Supplementary reading: Main textbooks
+## Supplementary reading
+
+1. Week 1: Dayan and Abbott, Theoretical Neuroscience, Chapter 1 and Mathematical Appendix
+2. Week 2: Dayan and Abbott, Theoretical Neuroscience, Chapter 2; Spikes, Rieke et al, appendices
+3. Week 3: Dayan and Abbott, Theoretical Neuroscience, Chapter 3
+4. Week 4: Dayan and Abbott, Theoretical Neuroscience, Chapter 4
+5. Week 5: Dayan and Abbott, Theoretical Neuroscience, Chapters 5 & 6
+6. Week 6: Dayan and Abbott, Theoretical Neuroscience, Chapter 7
+7. Week 7: Dayan and Abbott, Theoretical Neuroscience, Chapters 8 & 10
+8. Week 8: Dayan and Abbott, Theoretical Neuroscience, Chapter 9
+
+## Main textbooks
 
 1. Dayan, P., & Abbott, L. F. (2001). *Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems*. The MIT Press.
-    1. Week 1: Dayan and Abbott, Theoretical Neuroscience, Chapter 1 and Mathematical Appendix
-    2. Week 2: Dayan and Abbott, Theoretical Neuroscience, Chapter 2; Spikes, Rieke et al, appendices
-    3. Week 3: Dayan and Abbott, Theoretical Neuroscience, Chapter 3
-    4. Week 4: Dayan and Abbott, Theoretical Neuroscience, Chapter 4
-    5. Week 5: Dayan and Abbott, Theoretical Neuroscience, Chapters 5 & 6
-    6. Week 6: Dayan and Abbott, Theoretical Neuroscience, Chapter 7
-    7. Week 7: Dayan and Abbott, Theoretical Neuroscience, Chapters 8 & 10
-    8. Week 8: Dayan and Abbott, Theoretical Neuroscience, Chapter 9
 2. Anastasio, T. J. (2010). *Tutorial on Neural Systems Modeling*. Sinauer Associates.
 
 ## Recommended additional textbooks
