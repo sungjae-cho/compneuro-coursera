@@ -30,14 +30,14 @@ Records while taking the Computational Neuroscience course on Coursera
 
 ## Supplementary reading
 
-1. Week 1: Dayan and Abbott, Theoretical Neuroscience, Chapter 1 and Mathematical Appendix
-2. Week 2: Dayan and Abbott, Theoretical Neuroscience, Chapter 2; Spikes, Rieke et al, appendices
-3. Week 3: Dayan and Abbott, Theoretical Neuroscience, Chapter 3
-4. Week 4: Dayan and Abbott, Theoretical Neuroscience, Chapter 4
-5. Week 5: Dayan and Abbott, Theoretical Neuroscience, Chapters 5 & 6
-6. Week 6: Dayan and Abbott, Theoretical Neuroscience, Chapter 7
-7. Week 7: Dayan and Abbott, Theoretical Neuroscience, Chapters 8 & 10
-8. Week 8: Dayan and Abbott, Theoretical Neuroscience, Chapter 9
+1. Week 1: Theoretical Neuroscience, Dayan and Abbott, Chapter 1 and Mathematical Appendix
+2. Week 2: Theoretical Neuroscience, Dayan and Abbott, Chapter 2; Spikes, Rieke et al, appendices
+3. Week 3: Theoretical Neuroscience, Dayan and Abbott, Chapter 3
+4. Week 4: Theoretical Neuroscience, Dayan and Abbott, Chapter 4
+5. Week 5: Theoretical Neuroscience, Dayan and Abbott, Chapters 5 & 6
+6. Week 6: Theoretical Neuroscience, Dayan and Abbott, Chapter 7
+7. Week 7: Theoretical Neuroscience, Dayan and Abbott, Chapters 8 & 10
+8. Week 8: Theoretical Neuroscience, Dayan and Abbott, Chapter 9
 
 ## Main textbooks
 
