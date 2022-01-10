@@ -1,6 +1,6 @@
-# Computational Neuroscience Coursera
+# Computational Neuroscience, Coursera
 
-Records while taking the Computational Neuroscience course on Coursera
+This repository contains (1) my summary notes of lectures and (2) files for solving programming quizzes, which resulted from taking the Computational Neuroscience course via Coursera.
 
 ## Brief information
 
